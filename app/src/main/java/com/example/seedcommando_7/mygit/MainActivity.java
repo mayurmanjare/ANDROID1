@@ -18,5 +18,6 @@ Button b;
     public void show1(View v)
     {
         Toast.makeText(this,"Rashmi",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"Rashmi",Toast.LENGTH_LONG).show();
     }
 }
